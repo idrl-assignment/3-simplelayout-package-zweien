@@ -16,6 +16,7 @@ import sys
 sys.path.insert(0, os.path.abspath("../src"))
 
 
+
 # -- Project information -----------------------------------------------------
 
 project = "simplelayout-zweien"
@@ -58,4 +59,3 @@ html_theme = "classic"
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ["_static"]
-
