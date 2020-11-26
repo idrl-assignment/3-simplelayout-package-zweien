@@ -1,5 +1,5 @@
-src
-===
+simplelayout
+============
 
 .. toctree::
    :maxdepth: 4
